@@ -7,3 +7,5 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 ---
 
 ## 📂 Project Structure
+
+![alt text](image.png)
