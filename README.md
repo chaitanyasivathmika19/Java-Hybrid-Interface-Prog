@@ -11,7 +11,8 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 ![alt text](image.png)
 
 ## 📝 Code Example
-```java```
+``java``
+
 public class Main {
     public static void main(String[] args) {
         D obj = new D();
