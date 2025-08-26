@@ -22,15 +22,12 @@ public class Main {
     }
 }
 
-How to Run
+-> <u>How to Run</u>
 
-Compile the code:
-
+=> Compile the code:
 javac Main.java
 
-
-Run the program:
-
+=> Run the program:
 java Main
 
 ✅ Expected Output
