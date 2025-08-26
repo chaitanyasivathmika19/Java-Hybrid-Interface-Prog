@@ -21,16 +21,16 @@ public class Main {
         obj.check();    // From D
     }
 }
-
--> How to Run
+---
+## How to Run
 
 => Compile the code:
 javac Main.java
 
 => Run the program:
 java Main
-
-✅ Expected Output
+---
+## ✅ Expected Output
 Showing from A
 Displaying from B
 Printing from C
