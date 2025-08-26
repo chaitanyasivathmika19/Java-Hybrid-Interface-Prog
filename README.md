@@ -22,7 +22,7 @@ public class Main {
     }
 }
 
--> <u>How to Run</u>
+-> How to Run
 
 => Compile the code:
 javac Main.java
