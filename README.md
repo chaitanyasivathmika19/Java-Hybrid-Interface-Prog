@@ -12,19 +12,7 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 
 ## 📖 Code Example
 
-```java```
----
 
-public class Main {
-    public static void main(String[] args) {
-        D obj = new D();
-        obj.show();      // From A
-        obj.display();   // From B
-        obj.print();     // From C
-        obj.check();     // From D
-    }
-}
----
 ## ▶️ How to Run
 
 **Compile the code:**
@@ -41,3 +29,16 @@ Showing from A
 Displaying from B
 Printing from C
 checking from D
+
+```java
+
+public class Main {
+    public static void main(String[] args) {
+        D obj = new D();
+        obj.show();      // From A
+        obj.display();   // From B
+        obj.print();     // From C
+        obj.check();     // From D
+    }
+}
+
