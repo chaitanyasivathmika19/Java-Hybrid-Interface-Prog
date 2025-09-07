@@ -10,9 +10,6 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 
 ![alt text](image.png)
 
-## 📖 Code Example
-
-
 ## ▶️ How to Run
 
 **Compile the code:**
@@ -29,6 +26,9 @@ Showing from A
 Displaying from B
 Printing from C
 checking from D
+
+## 📖 Code Example
+
 
 ```java
 
