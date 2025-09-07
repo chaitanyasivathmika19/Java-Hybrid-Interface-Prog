@@ -21,7 +21,7 @@ public class Main {
         obj.print();     // From C
         obj.check();     // From D
     }
-}
+}```
 ---
 ## ▶️ How to Run
 
