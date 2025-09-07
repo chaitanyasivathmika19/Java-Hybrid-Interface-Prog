@@ -13,6 +13,7 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 ## 📖 Code Example
 
 ```java```
+---
 
 public class Main {
     public static void main(String[] args) {
