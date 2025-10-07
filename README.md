@@ -13,7 +13,7 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 ## ▶️ How to Run
 
 **Compile the code:**
-```bash```
+   ```bash```
    javac Main.java
 
 
@@ -29,16 +29,16 @@ checking from D
 
 ## 📖 Code Example
 
-
-```java
-
-public class Main {
-    public static void main(String[] args) {
+   ```java
+   public class Main {
+      public static void main(String[] args) {
         D obj = new D();
         obj.show();      // From A
         obj.display();   // From B
         obj.print();     // From C
         obj.check();     // From D
-    }
-}
+       }
+     }
 
+---
+# 
