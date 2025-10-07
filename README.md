@@ -14,7 +14,7 @@ Here, interfaces `A`, `B`, and `C` are extended and implemented by class `D`, wh
 
 **Compile the code:**
 ```bash```
-javac Main.java
+   javac Main.java
 
 
 **Run the program:**
